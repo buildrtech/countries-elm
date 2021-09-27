@@ -40,7 +40,7 @@ import Time
 {-| Representation of a country.
 
 
-# Idenification Codes
+# Identification Codes
 
       c.number # => "840"
       c.alpha2 # => "US"

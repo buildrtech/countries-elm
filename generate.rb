@@ -250,7 +250,7 @@ def iso3166_template
     {-|
       Representation of a country.
 
-      # Idenification Codes
+      # Identification Codes
           c.number # => "840"
           c.alpha2 # => "US"
           c.alpha3 # => "USA"
